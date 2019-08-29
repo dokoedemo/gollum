@@ -1,2 +1,2 @@
 # Title1
-\[x = -\frac{b}{a}\]
+$$x = -\frac{b}{a}$$
