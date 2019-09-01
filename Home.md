@@ -1,7 +1,7 @@
 # ホーム
 
-## [数学](hoge)
+## [数学](http://localhost:4567/math)
 
-## [統計](hoge)
+## [統計](http://localhost:4567/statistic)
 
-## [ウル4](hoge)
+## [USF4](http://localhost:4567/usf4)
