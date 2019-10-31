@@ -7,3 +7,5 @@
 # [統計](http://localhost:4567/statistic)
 
 # [USF4](http://localhost:4567/usf4)
+
+# [その他](http://localhost:4567/else)
