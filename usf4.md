@@ -19,4 +19,4 @@
 
 ## キャラクターの理解
 
-### [Guile](http://localhost:4567/create/guile)
+### [Guile](http://localhost:4567/guile)
