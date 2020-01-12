@@ -1,6 +1,12 @@
-MathJax.Hub.Config({
- tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
-});
+window.MathJax = {
+  tex2jax: {
+    inlineMath:  [ ['$','$'], ['\\(','\\)'] ],
+    displayMath: [ ['$$','$$'], ['\\[','\\]'] ],
+    processEscapes: true
+  },
+  TeX: { extensions: ["autoload-all.js"] }
+};
+
 (function(d,j){
   j = d.createElement('script');
   j.src = 'MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
