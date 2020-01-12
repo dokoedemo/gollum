@@ -1,6 +1,9 @@
 # 数学
-数式サンプル：
+サンプル：<br>
 $$x = -\frac{b}{a}$$
+
+参考：<br>
+- [省略記法一覧](shorthand-math-notation.html)
 
 ## 概論
 
