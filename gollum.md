@@ -38,7 +38,7 @@ i.e. ノートPCに個人wikiを導入したい。
 
 | 追加ファイル | 説明 |
 ----|---- 
-| ~/github/gollum/custom.js | 各wikiページに適用させたい設定を書く。オフラインでMathJaxを使用するために追加した。 |
+| ~/github/gollum/custom.js | 各wikiページに適用させたい設定を書くためのファイルである。<br>今回はオフラインでMathJaxを使用するために追加した。 |
 
 ## インストール手順
 
