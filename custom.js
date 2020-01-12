@@ -1,7 +1,6 @@
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
-  });    </script>
+MathJax.Hub.Config({
+ tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+});
 (function(d,j){
   j = d.createElement('script');
   j.src = 'MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
