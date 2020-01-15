@@ -5,16 +5,16 @@
 
 ### Def. 集合の対等（equipotent）の定義（p.61）
 集合$A$から集合$B$への全単射が少なくとも１つ存在するとき、$B$は$A$に対等であるという。<br>
-このことを以後、$A ¥sim B$と書く。<br>
+このことを以後、$A \sim B$と書く。<br>
 
 Rmk. 定義上は終集合$B$に定義される性質である事に注意する。<br>
 cf. "集合の相等"と区別する。（p.6）<br>
 
 ### Th. 集合の対等についての定理（p.61）
-1. $A ¥sim A$
-1. $A ¥sim B ¥Rightallow B ¥sim A$
-1. $A ¥sim B, B ¥sim C ¥Rightallow A ¥sim C$
+1. $A \sim A$
+1. $A \sim B \rightarrow B \sim A$
+1. $A \sim B, B \sim C \rightarrow A \sim C$
 
 Rmk. 上から、反射律、対称律、推移律と呼ばれる。<br>
-すなわち、$¥sim$はある集合系における同値関係となる。<br>
-Rmk. "集合の相等"も同値関係であるが、$¥sim$とは一般に一致しないため注意する。<br>
+すなわち、$\sim$はある集合系における同値関係となる。<br>
+Rmk. "集合の相等"も同値関係であるが、$\sim$とは一般に一致しないため注意する。<br>
