@@ -12,10 +12,10 @@
 ## 議事録
 
 ### hogeについて
-山口：hoge
+山口）hoge
 
 ### hogeについて
-山口：hoge
+山口）hoge
 
 ## 決定事項
 - hoge
