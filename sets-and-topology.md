@@ -12,8 +12,8 @@ cf. "集合の相等"と区別する。（p.6）<br>
 
 ### Th. 集合の対等についての定理（p.61）
 1. $A \sim A$
-1. $A \sim B \rightarrow B \sim A$
-1. $A \sim B, B \sim C \rightarrow A \sim C$
+1. $A \sim B \Rightarrow B \sim A$
+1. $A \sim B, B \sim C \Rightarrow A \sim C$
 
 Rmk. 上から、反射律、対称律、推移律と呼ばれる。<br>
 すなわち、$\sim$はある集合系における同値関係となる。<br>
