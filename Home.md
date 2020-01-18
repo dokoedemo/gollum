@@ -1,11 +1,11 @@
-# [gollum](http://localhost:4567/gollum)
+# [gollum](/gollum)
 
-# [markdown](http://localhost:4567/markdown)
+# [markdown](/markdown)
 
-# [数学](http://localhost:4567/math)
+# [数学](/math)
 
-# [統計](http://localhost:4567/statistic)
+# [統計](/statistic)
 
-# [USF4](http://localhost:4567/usf4)
+# [USF4](/usf4)
 
-# [その他](http://localhost:4567/else)
+# [その他](/else)
