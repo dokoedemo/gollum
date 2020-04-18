@@ -50,8 +50,8 @@ window.MathJax = {
 
 | ソフトウェア | 説明 |
 ----|---- 
-| Ruby | gollumを動作させるためのプラットフォームである。 |
-| Git | gollumやMathJaxのリソースをダウンロードするために用いる。 |
+| Ruby | 言語である。gollumはRubyの上で動作する。 |
+| Git | バージョン管理システムである。gollumやMathJaxのリソースを取得のに用いる。 |
 
 | ダウンロードリソース | 説明 |
 ----|---- 
@@ -60,7 +60,7 @@ window.MathJax = {
 
 | 追加ファイル | 説明 |
 ----|---- 
-| ~/github/gollum/custom.js | 各wikiページに適用させたい設定を書くためのファイルである。<br>今回はオフラインでMathJaxを使用するために追加した。 |
+| ~/github/gollum/custom.js | jsファイルの一つである。各wikiページに適用させたい設定を書く。<br>今回はオフラインでMathJaxを使用するために追加した。 |
 
 ## インストール手順
 
