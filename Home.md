@@ -8,6 +8,6 @@
 
 ## [統計](/statistic)
 
-## [プログラミング言語](/programming-language)
+## [プログラミング](/programming)
 
 ## [その他](/else)
