@@ -6,8 +6,6 @@
 
 # [統計](/statistic)
 
-# [USF4](/usf4)
-
 # [プログラミング言語](/programming-language)
 
 # [その他](/else)
