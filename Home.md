@@ -1,11 +1,13 @@
-# [gollum](/gollum)
+# ホーム
 
-# [markdown](/markdown)
+## [gollum](/gollum)
 
-# [数学](/math)
+## [markdown](/markdown)
 
-# [統計](/statistic)
+## [数学](/math)
 
-# [プログラミング言語](/programming-language)
+## [統計](/statistic)
 
-# [その他](/else)
+## [プログラミング言語](/programming-language)
+
+## [その他](/else)
